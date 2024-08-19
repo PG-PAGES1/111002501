@@ -1,0 +1,209 @@
+
+iconWinFX.jpg
+size: 1004,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_border/pay_select_a_loop_00
+  rotate: false
+  xy: 2, 650
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_01
+  rotate: false
+  xy: 179, 827
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_02
+  rotate: false
+  xy: 2, 473
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_03
+  rotate: false
+  xy: 179, 650
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_04
+  rotate: false
+  xy: 356, 827
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_05
+  rotate: false
+  xy: 2, 296
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_06
+  rotate: false
+  xy: 179, 473
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_07
+  rotate: false
+  xy: 356, 650
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_08
+  rotate: false
+  xy: 533, 827
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_09
+  rotate: false
+  xy: 2, 119
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_10
+  rotate: false
+  xy: 179, 296
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_11
+  rotate: false
+  xy: 356, 473
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_12
+  rotate: false
+  xy: 533, 650
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_border/pay_select_a_loop_13
+  rotate: false
+  xy: 2, 827
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_borderFadeIn/pay_select_a_start_01
+  rotate: false
+  xy: 887, 943
+  size: 69, 59
+  orig: 175, 175
+  offset: 0, 78
+  index: -1
+fx_borderFadeIn/pay_select_a_start_02
+  rotate: true
+  xy: 2, 26
+  size: 91, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_borderFadeIn/pay_select_a_start_03
+  rotate: false
+  xy: 710, 827
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_borderFadeIn/pay_select_a_start_04
+  rotate: false
+  xy: 179, 119
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_borderFadeIn/pay_select_a_start_05
+  rotate: false
+  xy: 356, 296
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+fx_glow/pay_select_00
+  rotate: true
+  xy: 533, 168
+  size: 156, 164
+  orig: 180, 180
+  offset: 12, 8
+  index: -1
+fx_glow/pay_select_01
+  rotate: false
+  xy: 699, 488
+  size: 158, 160
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+fx_glow/pay_select_02
+  rotate: false
+  xy: 697, 326
+  size: 160, 160
+  orig: 180, 180
+  offset: 11, 9
+  index: -1
+fx_glow/pay_select_03
+  rotate: false
+  xy: 356, 132
+  size: 160, 162
+  orig: 180, 180
+  offset: 10, 9
+  index: -1
+fx_glow/pay_select_04
+  rotate: false
+  xy: 533, 488
+  size: 164, 160
+  orig: 180, 180
+  offset: 11, 9
+  index: -1
+fx_glow/pay_select_05
+  rotate: false
+  xy: 710, 657
+  size: 156, 168
+  orig: 180, 180
+  offset: 11, 9
+  index: -1
+fx_glow/pay_select_06
+  rotate: false
+  xy: 699, 164
+  size: 158, 160
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+fx_glow/pay_select_07
+  rotate: false
+  xy: 684, 2
+  size: 160, 160
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+fx_glow/pay_select_08
+  rotate: false
+  xy: 533, 326
+  size: 162, 160
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+fx_glow/pay_select_09
+  rotate: true
+  xy: 518, 10
+  size: 156, 164
+  orig: 180, 180
+  offset: 12, 8
+  index: -1

@@ -1,0 +1,125 @@
+
+braceletSD.png
+size: 454,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snake_b
+  rotate: false
+  xy: 398, 174
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+Snake_b01
+  rotate: true
+  xy: 304, 113
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+Snake_b02
+  rotate: false
+  xy: 157, 6
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Snake_b03
+  rotate: false
+  xy: 411, 19
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Snake_b04
+  rotate: true
+  xy: 301, 57
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+Snake_b05
+  rotate: true
+  xy: 378, 57
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+Snake_t
+  rotate: false
+  xy: 304, 169
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+faguang_1
+  rotate: false
+  xy: 197, 18
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 116
+  size: 157, 169
+  orig: 157, 169
+  offset: 0, 0
+  index: -1
+frame_sd
+  rotate: true
+  xy: 382, 115
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+fx-gem01
+  rotate: false
+  xy: 301, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+fx-gem02
+  rotate: false
+  xy: 356, 2
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+fx-shine
+  rotate: false
+  xy: 157, 38
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+star_grey
+  rotate: false
+  xy: 229, 38
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+蛇手臂-背
+  rotate: false
+  xy: 161, 110
+  size: 129, 48
+  orig: 129, 48
+  offset: 0, 0
+  index: -1
+蛇手臂-蛇
+  rotate: false
+  xy: 2, 21
+  size: 153, 93
+  orig: 153, 93
+  offset: 0, 0
+  index: -1
+蛇手臂_2
+  rotate: false
+  xy: 161, 160
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1

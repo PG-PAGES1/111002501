@@ -1,0 +1,48 @@
+
+harpSD.png
+size: 182,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: true
+  xy: 2, 2
+  size: 157, 169
+  orig: 157, 169
+  offset: 0, 0
+  index: -1
+光效01
+  rotate: false
+  xy: 2, 498
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+光效02
+  rotate: false
+  xy: 39, 498
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+竖琴体
+  rotate: true
+  xy: 2, 161
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+竖琴体fx
+  rotate: true
+  xy: 2, 302
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+竖琴弦
+  rotate: true
+  xy: 2, 443
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1

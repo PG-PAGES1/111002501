@@ -1,0 +1,13 @@
+
+freebtn.jpg
+size: 117,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeikaisui_unpack/mouse_over
+  rotate: false
+  xy: 2, 2
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1

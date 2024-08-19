@@ -1,0 +1,27 @@
+
+freeGame_start.jpg
+size: 1756,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_a
+  rotate: true
+  xy: 2, 754
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+bg_b
+  rotate: true
+  xy: 2, 2
+  size: 750, 1624
+  orig: 750, 1624
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: false
+  xy: 1628, 1281
+  size: 126, 223
+  orig: 126, 223
+  offset: 0, 0
+  index: -1

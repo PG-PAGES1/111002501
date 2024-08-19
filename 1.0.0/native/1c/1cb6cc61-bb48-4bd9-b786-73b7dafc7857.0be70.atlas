@@ -1,0 +1,104 @@
+
+spinBtn.png
+size: 763,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn
+  rotate: false
+  xy: 2, 420
+  size: 341, 341
+  orig: 360, 359
+  offset: 10, 6
+  index: -1
+fx_glow
+  rotate: false
+  xy: 100, 41
+  size: 86, 86
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+fx_water/spin_button_water_splash_00
+  rotate: true
+  xy: 254, 2
+  size: 135, 132
+  orig: 142, 146
+  offset: 3, 2
+  index: -1
+fx_water/spin_button_water_splash_01
+  rotate: true
+  xy: 567, 225
+  size: 152, 143
+  orig: 164, 154
+  offset: 10, 3
+  index: -1
+fx_water/spin_button_water_splash_02
+  rotate: false
+  xy: 559, 64
+  size: 173, 155
+  orig: 180, 160
+  offset: 4, 2
+  index: -1
+fx_water/spin_button_water_splash_03
+  rotate: true
+  xy: 388, 5
+  size: 214, 169
+  orig: 218, 172
+  offset: 2, 2
+  index: -1
+fx_water/spin_button_water_splash_04
+  rotate: true
+  xy: 542, 526
+  size: 235, 178
+  orig: 240, 184
+  offset: 2, 2
+  index: -1
+fx_water/spin_button_water_splash_05
+  rotate: true
+  xy: 345, 500
+  size: 261, 195
+  orig: 276, 200
+  offset: 3, 2
+  index: -1
+fx_water/spin_button_water_splash_06
+  rotate: true
+  xy: 2, 129
+  size: 289, 192
+  orig: 298, 198
+  offset: 6, 3
+  index: -1
+fx_water/spin_button_water_splash_07
+  rotate: true
+  xy: 196, 139
+  size: 279, 187
+  orig: 302, 198
+  offset: 20, 4
+  index: -1
+fx_water/spin_button_water_splash_08
+  rotate: true
+  xy: 385, 221
+  size: 277, 180
+  orig: 282, 194
+  offset: 3, 8
+  index: -1
+fx_water/spin_button_water_splash_09
+  rotate: false
+  xy: 567, 379
+  size: 160, 145
+  orig: 176, 152
+  offset: 13, 5
+  index: -1
+fx_water/spin_button_water_splash_10
+  rotate: false
+  xy: 2, 25
+  size: 96, 102
+  orig: 100, 106
+  offset: 1, 2
+  index: -1
+fx_water/spin_button_water_splash_11
+  rotate: true
+  xy: 188, 52
+  size: 75, 64
+  orig: 98, 70
+  offset: 2, 4
+  index: -1

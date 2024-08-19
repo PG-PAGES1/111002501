@@ -1,0 +1,195 @@
+
+skeleton.png
+size: 1786,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huawen/greek_line_01
+  rotate: false
+  xy: 1274, 2
+  size: 44, 50
+  orig: 478, 90
+  offset: 217, 38
+  index: -1
+huawen/greek_line_02
+  rotate: true
+  xy: 1702, 180
+  size: 60, 58
+  orig: 478, 90
+  offset: 209, 32
+  index: -1
+huawen/greek_line_03
+  rotate: true
+  xy: 1702, 298
+  size: 106, 64
+  orig: 478, 90
+  offset: 186, 26
+  index: -1
+huawen/greek_line_04
+  rotate: true
+  xy: 1634, 164
+  size: 240, 66
+  orig: 478, 90
+  offset: 119, 24
+  index: -1
+huawen/greek_line_05
+  rotate: true
+  xy: 1494, 54
+  size: 350, 68
+  orig: 478, 90
+  offset: 64, 22
+  index: -1
+huawen/greek_line_06
+  rotate: true
+  xy: 1424, 24
+  size: 380, 68
+  orig: 478, 90
+  offset: 49, 22
+  index: -1
+huawen/greek_line_07
+  rotate: false
+  xy: 1352, 406
+  size: 392, 76
+  orig: 478, 90
+  offset: 43, 14
+  index: -1
+huawen/greek_line_08
+  rotate: true
+  xy: 1196, 12
+  size: 470, 76
+  orig: 478, 90
+  offset: 4, 14
+  index: -1
+huawen/greek_line_09
+  rotate: true
+  xy: 2, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_10
+  rotate: true
+  xy: 94, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_11
+  rotate: true
+  xy: 186, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_12
+  rotate: true
+  xy: 278, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_13
+  rotate: true
+  xy: 370, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_14
+  rotate: true
+  xy: 462, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_15
+  rotate: true
+  xy: 554, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_16
+  rotate: true
+  xy: 646, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_17
+  rotate: true
+  xy: 738, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_18
+  rotate: true
+  xy: 830, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_19
+  rotate: true
+  xy: 922, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_20
+  rotate: true
+  xy: 1014, 4
+  size: 478, 90
+  orig: 478, 90
+  offset: 0, 0
+  index: -1
+huawen/greek_line_21
+  rotate: true
+  xy: 1106, 4
+  size: 478, 88
+  orig: 478, 90
+  offset: 0, 2
+  index: -1
+huawen/greek_line_22
+  rotate: true
+  xy: 1274, 54
+  size: 428, 76
+  orig: 478, 90
+  offset: 25, 14
+  index: -1
+huawen/greek_line_23
+  rotate: true
+  xy: 1352, 16
+  size: 388, 70
+  orig: 478, 90
+  offset: 45, 20
+  index: -1
+huawen/greek_line_24
+  rotate: true
+  xy: 1564, 98
+  size: 306, 68
+  orig: 478, 90
+  offset: 86, 22
+  index: -1
+huawen/greek_line_25
+  rotate: false
+  xy: 1564, 34
+  size: 220, 62
+  orig: 478, 90
+  offset: 129, 23
+  index: -1
+huawen/greek_line_26
+  rotate: false
+  xy: 1634, 102
+  size: 140, 60
+  orig: 478, 90
+  offset: 169, 23
+  index: -1
+huawen/greek_line_27
+  rotate: false
+  xy: 1702, 242
+  size: 68, 54
+  orig: 478, 90
+  offset: 205, 30
+  index: -1

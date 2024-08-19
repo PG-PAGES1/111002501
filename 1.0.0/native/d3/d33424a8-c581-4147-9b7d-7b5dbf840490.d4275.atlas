@@ -1,0 +1,104 @@
+
+leaf.png
+size: 910,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Medusa02_Leaf_02
+  rotate: true
+  xy: 530, 11
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+Medusa02_Leaf_03
+  rotate: true
+  xy: 438, 44
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+Medusa02_Leaf_04
+  rotate: false
+  xy: 680, 10
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+bg_branch
+  rotate: false
+  xy: 180, 15
+  size: 256, 111
+  orig: 256, 111
+  offset: 0, 0
+  index: -1
+bg_leaf_01
+  rotate: true
+  xy: 789, 67
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+bg_leaf_02
+  rotate: false
+  xy: 438, 8
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+bg_leaf_03
+  rotate: true
+  xy: 530, 47
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+fg_L_branch
+  rotate: false
+  xy: 712, 2
+  size: 136, 55
+  orig: 136, 55
+  offset: 0, 0
+  index: -1
+fg_L_leaf_01
+  rotate: true
+  xy: 627, 56
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+fg_L_leaf_02
+  rotate: true
+  xy: 850, 11
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+fg_L_leaf_03
+  rotate: true
+  xy: 627, 4
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+fg_R_leaf_01
+  rotate: true
+  xy: 862, 59
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+fg_R_leaf_02
+  rotate: true
+  xy: 712, 59
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+fg_R_leaf_03
+  rotate: false
+  xy: 2, 11
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1

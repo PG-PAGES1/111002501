@@ -1,0 +1,27 @@
+
+freeGame_energyBar.jpg
+size: 85,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_blueLight
+  rotate: false
+  xy: 54, 45
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+fx_highLight
+  rotate: false
+  xy: 2, 33
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 2, 2
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1

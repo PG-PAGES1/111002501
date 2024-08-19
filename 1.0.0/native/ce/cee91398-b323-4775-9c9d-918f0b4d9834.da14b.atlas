@@ -1,0 +1,125 @@
+
+bigWin_topFX.png
+size: 1410,1410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 1132, 452
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+water/super_mega_win_splash_00
+  rotate: false
+  xy: 743, 44
+  size: 124, 113
+  orig: 129, 115
+  offset: 3, 1
+  index: -1
+water/super_mega_win_splash_01
+  rotate: false
+  xy: 1132, 293
+  size: 172, 157
+  orig: 175, 159
+  offset: 2, 1
+  index: -1
+water/super_mega_win_splash_02
+  rotate: false
+  xy: 1127, 647
+  size: 214, 208
+  orig: 219, 211
+  offset: 4, 1
+  index: -1
+water/super_mega_win_splash_03
+  rotate: false
+  xy: 1127, 1134
+  size: 281, 274
+  orig: 283, 277
+  offset: 1, 1
+  index: -1
+water/super_mega_win_splash_04
+  rotate: false
+  xy: 2, 17
+  size: 324, 318
+  orig: 327, 321
+  offset: 2, 2
+  index: -1
+water/super_mega_win_splash_05
+  rotate: true
+  xy: 752, 159
+  size: 357, 378
+  orig: 359, 381
+  offset: 2, 2
+  index: -1
+water/super_mega_win_splash_06
+  rotate: false
+  xy: 752, 518
+  size: 373, 426
+  orig: 373, 429
+  offset: 0, 1
+  index: -1
+water/super_mega_win_splash_07
+  rotate: false
+  xy: 752, 946
+  size: 373, 462
+  orig: 373, 473
+  offset: 0, 8
+  index: -1
+water/super_mega_win_splash_08
+  rotate: false
+  xy: 377, 420
+  size: 373, 485
+  orig: 373, 487
+  offset: 0, 1
+  index: -1
+water/super_mega_win_splash_09
+  rotate: false
+  xy: 377, 907
+  size: 373, 501
+  orig: 373, 507
+  offset: 0, 1
+  index: -1
+water/super_mega_win_splash_10
+  rotate: false
+  xy: 2, 337
+  size: 373, 528
+  orig: 373, 531
+  offset: 0, 1
+  index: -1
+water/super_mega_win_splash_11
+  rotate: false
+  xy: 2, 867
+  size: 373, 541
+  orig: 373, 545
+  offset: 0, 2
+  index: -1
+water/super_mega_win_splash_12
+  rotate: true
+  xy: 377, 66
+  size: 352, 364
+  orig: 353, 367
+  offset: 1, 2
+  index: -1
+water/super_mega_win_splash_13
+  rotate: false
+  xy: 1127, 857
+  size: 222, 275
+  orig: 225, 277
+  offset: 2, 1
+  index: -1
+water/super_mega_win_splash_14
+  rotate: true
+  xy: 1132, 144
+  size: 147, 156
+  orig: 203, 159
+  offset: 55, 1
+  index: -1
+water/super_mega_win_splash_15
+  rotate: false
+  xy: 869, 85
+  size: 59, 72
+  orig: 61, 75
+  offset: 1, 1
+  index: -1

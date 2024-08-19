@@ -1,0 +1,167 @@
+
+freeGame_infoBar2.png
+size: 1242,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bgShine
+  rotate: true
+  xy: 2, 19
+  size: 188, 120
+  orig: 188, 120
+  offset: 0, 0
+  index: -1
+fx_circle/sb_hover_vfx_b_screen00
+  rotate: false
+  xy: 580, 2
+  size: 106, 106
+  orig: 160, 160
+  offset: 27, 27
+  index: -1
+fx_circle/sb_hover_vfx_b_screen01
+  rotate: false
+  xy: 726, 4
+  size: 112, 112
+  orig: 160, 160
+  offset: 24, 24
+  index: -1
+fx_circle/sb_hover_vfx_b_screen02
+  rotate: false
+  xy: 992, 6
+  size: 118, 118
+  orig: 160, 160
+  offset: 21, 21
+  index: -1
+fx_circle/sb_hover_vfx_b_screen03
+  rotate: false
+  xy: 868, 2
+  size: 122, 122
+  orig: 160, 160
+  offset: 19, 19
+  index: -1
+fx_circle/sb_hover_vfx_b_screen04
+  rotate: false
+  xy: 1069, 278
+  size: 124, 124
+  orig: 160, 160
+  offset: 18, 18
+  index: -1
+fx_circle/sb_hover_vfx_b_screen05
+  rotate: false
+  xy: 1112, 6
+  size: 128, 128
+  orig: 160, 160
+  offset: 16, 16
+  index: -1
+fx_circle/sb_hover_vfx_b_screen06
+  rotate: false
+  xy: 1006, 136
+  size: 130, 130
+  orig: 160, 160
+  offset: 15, 15
+  index: -1
+fx_circle/sb_hover_vfx_b_screen07
+  rotate: false
+  xy: 933, 268
+  size: 134, 134
+  orig: 160, 160
+  offset: 13, 13
+  index: -1
+fx_circle/sb_hover_vfx_b_screen08
+  rotate: false
+  xy: 868, 126
+  size: 136, 136
+  orig: 160, 160
+  offset: 12, 12
+  index: -1
+fx_circle/sb_hover_vfx_b_screen09
+  rotate: false
+  xy: 793, 264
+  size: 138, 138
+  orig: 160, 160
+  offset: 11, 11
+  index: -1
+fx_circle/sb_hover_vfx_b_screen10
+  rotate: false
+  xy: 726, 118
+  size: 140, 140
+  orig: 160, 160
+  offset: 10, 10
+  index: -1
+fx_circle/sb_hover_vfx_b_screen11
+  rotate: false
+  xy: 649, 260
+  size: 142, 142
+  orig: 160, 160
+  offset: 9, 9
+  index: -1
+fx_circle/sb_hover_vfx_b_screen12
+  rotate: false
+  xy: 580, 110
+  size: 144, 144
+  orig: 160, 160
+  offset: 8, 8
+  index: -1
+fx_circle/sb_hover_vfx_b_screen13
+  rotate: false
+  xy: 501, 256
+  size: 146, 146
+  orig: 160, 160
+  offset: 7, 7
+  index: -1
+fx_circle/sb_hover_vfx_b_screen14
+  rotate: false
+  xy: 430, 102
+  size: 148, 148
+  orig: 160, 160
+  offset: 6, 6
+  index: -1
+fx_circle/sb_hover_vfx_b_screen15
+  rotate: true
+  xy: 351, 252
+  size: 150, 148
+  orig: 160, 160
+  offset: 5, 6
+  index: -1
+fx_circle/sb_hover_vfx_b_screen16
+  rotate: false
+  xy: 278, 98
+  size: 150, 150
+  orig: 160, 160
+  offset: 5, 5
+  index: -1
+fx_circle/sb_hover_vfx_b_screen17
+  rotate: false
+  xy: 124, 55
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+fx_circle/sb_hover_vfx_b_screen18
+  rotate: false
+  xy: 197, 250
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+fx_glow
+  rotate: false
+  xy: 2, 209
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 124, 24
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+mianfeiyouxzhanshikuan
+  rotate: false
+  xy: 2, 404
+  size: 1229, 218
+  orig: 1242, 218
+  offset: 6, 0
+  index: -1
